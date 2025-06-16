@@ -73,7 +73,7 @@ gcc expressao.c main.c -o expressao
 ## 📚 Contexto acadêmico
 
 - Universidade Católica de Brasília – UCB  
-- Estruturas de Dados — 1º semestre de 2025  
+- Estruturas de Dados — 3º semestre de 2025  
 - Professor: Marcelo Eustáquio
 
 ---
